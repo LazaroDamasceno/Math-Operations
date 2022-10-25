@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Install node-modules
 
-After downloading this repository, open it on CMD or similiar app, then run the following command: "npm install"
+Before downloading this repository, open it on CMD or similiar app, then run the following command: "npm install". Only before doing this, one can run the react app.
 
 ## Available Scripts
 
