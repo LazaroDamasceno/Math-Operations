@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##
+
+![Animação](https://user-images.githubusercontent.com/62726118/198488510-bb1d50cf-c05e-49b7-a494-6d9864a6cfdd.gif)
+
 ## Install node-modules
 
 After downloading this repository, open it on CMD or similar app, then run the following command: "npm install". Only After this, one can run the react app.
